@@ -115,7 +115,55 @@
          "draworder":"topdown",
          "id":3,
          "name":"floorLayer",
-         "objects":[],
+         "objects":[
+                {
+                 "gid":49,
+                 "height":32,
+                 "id":7,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":1344,
+                 "y":128
+                }, 
+                {
+                 "gid":50,
+                 "height":32,
+                 "id":8,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":1376,
+                 "y":128
+                }, 
+                {
+                 "gid":65,
+                 "height":32,
+                 "id":9,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":1344,
+                 "y":160
+                }, 
+                {
+                 "gid":66,
+                 "height":32,
+                 "id":10,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":1376,
+                 "y":160
+                }],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -141,10 +189,10 @@
          "y":0
         }],
  "nextlayerid":14,
- "nextobjectid":1,
+ "nextobjectid":11,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.3.3",
+ "tiledversion":"1.4.3",
  "tileheight":32,
  "tilesets":[
         {
@@ -897,6 +945,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.2,
+ "version":1.4,
  "width":46
 }
