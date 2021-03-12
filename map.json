@@ -930,19 +930,6 @@
                         }]
                 }],
          "tilewidth":32
-        }, 
-        {
-         "columns":26,
-         "firstgid":321,
-         "image":"Park_TileMap.png",
-         "imageheight":651,
-         "imagewidth":839,
-         "margin":0,
-         "name":"Park_TileMap",
-         "spacing":0,
-         "tilecount":520,
-         "tileheight":32,
-         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
