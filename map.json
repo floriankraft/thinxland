@@ -612,51 +612,6 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
-                {
-                 "id":922,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":false
-                        }]
-                }, 
-                {
-                 "id":923,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":false
-                        }]
-                }, 
-                {
-                 "id":924,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":false
-                        }]
-                }, 
-                {
-                 "id":925,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":false
-                        }]
-                }, 
-                {
-                 "id":926,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":false
-                        }]
                 }],
          "tilewidth":32
         }, 
