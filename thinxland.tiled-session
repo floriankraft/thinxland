@@ -1,0 +1,63 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "map.json",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "Alle Dateien (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "map.json": {
+            "scale": 1.5,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 74.99999999999997,
+                "y": 591.3333333333333
+            }
+        },
+        "map.json#Park_TileMap": {
+            "scaleInDock": 1
+        },
+        "map.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "map.json#office_1": {
+            "scaleInDock": 1
+        },
+        "park.json": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 15753.5,
+                "y": 7166
+            }
+        },
+        "park.json#craftland": {
+            "scaleInDock": 1
+        },
+        "park.json#summerfloor": {
+            "scaleInDock": 1
+        }
+    },
+    "map.height": 500,
+    "map.lastUsedFormat": "json",
+    "map.width": 500,
+    "openFiles": [
+        "map.json"
+    ],
+    "project": "thinxland.tiled-project",
+    "recentFiles": [
+        "park.json",
+        "map.json"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 32,
+        "width": 32
+    }
+}
