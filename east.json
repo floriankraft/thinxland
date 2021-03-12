@@ -31,7 +31,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":".\/map.json#start_park"
+                 "value":".\/map.json#start-east"
                 }],
          "type":"tilelayer",
          "visible":true,
