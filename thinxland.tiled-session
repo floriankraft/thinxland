@@ -51,6 +51,7 @@
         "map.json"
     ],
     "project": "thinxland.tiled-project",
+    "property.type": "bool",
     "recentFiles": [
         "park.json",
         "map.json"
