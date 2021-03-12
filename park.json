@@ -31,7 +31,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":".\/map.json"
+                 "value":".\/map.json#start_park"
                 }],
          "type":"tilelayer",
          "visible":true,
