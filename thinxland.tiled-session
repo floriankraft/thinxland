@@ -13,11 +13,11 @@
             "scaleInDock": 1
         },
         "map.json": {
-            "scale": 1.5,
-            "selectedLayer": 3,
+            "scale": 0.5,
+            "selectedLayer": 8,
             "viewCenter": {
-                "x": 150.33333333333331,
-                "y": 590.6666666666667
+                "x": 562,
+                "y": 290
             }
         },
         "map.json#Park_TileMap": {
@@ -31,11 +31,14 @@
         },
         "park.json": {
             "scale": 1,
-            "selectedLayer": 3,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 3000.5,
-                "y": 1676
+                "x": 2824,
+                "y": 1807
             }
+        },
+        "park.json#carts": {
+            "scaleInDock": 1
         },
         "park.json#craftland": {
             "scaleInDock": 1
@@ -44,6 +47,9 @@
             "scaleInDock": 1
         },
         "park.json#summerfloor": {
+            "scaleInDock": 1
+        },
+        "park.json#tracks": {
             "scaleInDock": 1
         }
     },
@@ -54,7 +60,7 @@
         "map.json"
     ],
     "project": "thinxland.tiled-project",
-    "property.type": "bool",
+    "property.type": "string",
     "recentFiles": [
         "park.json",
         "map.json"
