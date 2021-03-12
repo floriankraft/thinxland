@@ -3,8 +3,9 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "map.json",
+    "activeFile": "",
     "expandedProjectPaths": [
+        "tiles",
         "."
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
@@ -13,11 +14,11 @@
             "scaleInDock": 1
         },
         "map.json": {
-            "scale": 0.5,
-            "selectedLayer": 8,
+            "scale": 1,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 562,
-                "y": 290
+                "x": 1565,
+                "y": 3016
             }
         },
         "map.json#Park_TileMap": {
@@ -29,12 +30,47 @@
         "map.json#office_1": {
             "scaleInDock": 1
         },
+        "map.json#victorian-accessories": {
+            "scaleInDock": 1
+        },
+        "map.json#victorian-garden": {
+            "scaleInDock": 1
+        },
+        "map.json#victorian-mansion": {
+            "scaleInDock": 1
+        },
+        "map.json#victorian-market": {
+            "scaleInDock": 1
+        },
+        "map.json#victorian-streets": {
+            "scaleInDock": 1
+        },
+        "map.json#victorian-tenement": {
+            "scaleInDock": 1
+        },
+        "map.json#victorian-windows-doors": {
+            "scaleInDock": 1
+        },
+        "office.json": {
+            "scale": 0.6621603260869565,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 736.981635374987,
+                "y": 545.1851851851852
+            }
+        },
+        "office.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "office.json#office_1": {
+            "scaleInDock": 1
+        },
         "park.json": {
             "scale": 1,
-            "selectedLayer": 2,
+            "selectedLayer": 6,
             "viewCenter": {
-                "x": 2824,
-                "y": 1807
+                "x": 3069,
+                "y": 1741
             }
         },
         "park.json#carts": {
@@ -53,15 +89,15 @@
             "scaleInDock": 1
         }
     },
-    "map.height": 500,
+    "map.height": 100,
     "map.lastUsedFormat": "json",
-    "map.width": 500,
+    "map.width": 100,
     "openFiles": [
-        "map.json"
     ],
     "project": "thinxland.tiled-project",
     "property.type": "string",
     "recentFiles": [
+        "office.json",
         "park.json",
         "map.json"
     ],
