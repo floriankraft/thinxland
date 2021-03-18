@@ -10,6 +10,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"autoplay",
+                 "type":"string",
+                 "value":"1"
+                }, 
+                {
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.youtube.com\/embed\/bxROkkm02AQ"
