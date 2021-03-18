@@ -10,14 +10,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"autoplay",
-                 "type":"string",
-                 "value":"1"
-                }, 
-                {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/bxROkkm02AQ"
+                 "value":"https:\/\/www.youtube.com\/embed\/bxROkkm02AQ?autoplay=1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -3384,6 +3379,19 @@
                          "value":true
                         }]
                 }],
+         "tilewidth":32
+        }, 
+        {
+         "columns":18,
+         "firstgid":7529,
+         "image":"tiles\/space.png",
+         "imageheight":576,
+         "imagewidth":576,
+         "margin":0,
+         "name":"space",
+         "spacing":0,
+         "tilecount":324,
+         "tileheight":32,
          "tilewidth":32
         }],
  "tilewidth":32,
