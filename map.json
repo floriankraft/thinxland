@@ -312,7 +312,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/floriankraft.github.io\/thinxland\/docs\/create_repo.png"
+                 "value":"https:\/\/floriankraft.github.io\/thinxland\/assets\/session-plan.png"
                 }],
          "type":"tilelayer",
          "visible":true,
