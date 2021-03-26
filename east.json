@@ -66,7 +66,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":".\/north.json#start-bus-east"
+                 "value":".\/north.json#start_bus_east"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -102,7 +102,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":".\/main.json#start-bus-east"
+                 "value":".\/map.json#start-bus-east"
                 }],
          "type":"tilelayer",
          "visible":true,
